@@ -37,13 +37,21 @@ Our solution would benefit the users because students would have more fun, be ex
 
 Flow for Addressing Problem:
 The flow for addressing this issue started by getting into contact with a highschool teacher for the project. He expressed to us some things he wished he was able to include in his argumentative writing content, and his observations on what his students may enjoy. Then, our team looked at pre-existing games that would meet his requirements that we may be able to pull inspiration from.
-##  General Nature of Solution:
+
+
+General Nature of Solution:
 Standalone Game application with connectivity through a client-server model.
-General Software Components
+
+
+General Software Components:
 Version control system, web server, Unity game engine, visual studio 
-General Hardware Components
+
+
+General Hardware Components:
 Phone and computer/laptop (whatever large screen the host wishes to use).
-Similar Solutions 
+
+
+Similar Solutions:
 Like mentioned earlier there are pre-existing games that could provide similar solutions. However, these games focus more on making the other players laugh than coming up with a good argumentative position.
 
 ##  Glossary
