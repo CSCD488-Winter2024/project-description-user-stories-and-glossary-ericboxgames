@@ -7,26 +7,34 @@
 This project will be an educational game that focuses on enhancing argumentative writing skills among high school students. The emphasis is on creating an engaging and educational experience that resonates with high school students and improves their argumentative writing abilities. To accomplish this, our team will create a game with a similar structure to JackBox Games. Students will join into a multiplayer game where the teacher is the host and through minigames students will submit their own open-ended answers and vote on the best of them. These minigames will provide students different settings and opportunities to construct logical, coherent, and persuasive arguments. The idea is that the answers that are the most persuasive will win. This encourages students to take their audience into account as well as remaining factual and logical. 
 
 ##  User Stories
-As a student, I want a fun game experience so that learning argumentative writings isn’t boring. 
-As a teacher, I want an engaging game so that my students benefit from the course material.
-As a student, I want to be able to pick my own username so that I can be anonymous.
-As a highschooler, I want different types of minigames so that I don’t get bored of one. 
-As a competitive player, I want a scoreboard so that I can prove how great I am.
-As a teacher, I want nicknames to be school appropriate so that I don’t get in trouble. 
-As a teacher, I want to be able to disqualify an answer if it doesn't make sense/fit the prompt so that students can’t just put down something funny that doesn’t relate to the prompt in order to win.
-As a teacher, I want to easily distribute the game to the students so we can quickly and easily start playing.
-As a game facilitator, I want the players to quickly and easily join the game session so we can start with as little hassle as possible
-As a player, I want to be able to choose my answer questions on my phone so that I can participate in the game.
+* As a student, I want a fun game experience so that learning argumentative writings isn’t boring. 
+* As a teacher, I want an engaging game so that my students benefit from the course material.
+* As a student, I want to be able to pick my own username so that I can be anonymous.
+* As a highschooler, I want different types of minigames so that I don’t get bored of one. 
+* As a competitive player, I want a scoreboard so that I can prove how great I am.
+* As a teacher, I want nicknames to be school appropriate so that I don’t get in trouble. 
+* As a teacher, I want to be able to disqualify an answer if it doesn't make sense/fit the prompt so that students can’t just put down something funny that doesn’t relate to the prompt in order to win.
+* As a teacher, I want to easily distribute the game to the students so we can quickly and easily start playing.
+* As a game facilitator, I want the players to quickly and easily join the game session so we can start with as little hassle as possible
+* As a player, I want to be able to choose my answer questions on my phone so that I can participate in the game.
 
 ##  Additional Project Guidelines
 Problem Statement: 
-The typical way that high schoolers learn argumentative writing and practice it is boring and unengaging. 
+The typical way that high schoolers learn argumentative writing and practice it is boring and unengaging.
+
+
 Intended Users:
 The intended users are high schoolers and high school teachers. However, the game won’t be limited to them. 
+
+
 Specific User Problem:
 Currently, the way that high school teachers teach about argumentative writing is through verbally explaining important parts of argumentative writing and students then practice this by writing multiple argumentative papers. While this way of learning may work for some students, for most it is unengaging and uninteresting. Therefore, some do not learn much from the material in the long term or just don’t find enjoyment in it.
+
+
 Benefit for Users:
 Our solution would benefit the users because students would have more fun, be exposed to many different arguments that they may not have thought of on their own, and will be able to think quickly on the spot without worry of failure.
+
+
 Flow for Addressing Problem:
 The flow for addressing this issue started by getting into contact with a highschool teacher for the project. He expressed to us some things he wished he was able to include in his argumentative writing content, and his observations on what his students may enjoy. Then, our team looked at pre-existing games that would meet his requirements that we may be able to pull inspiration from.
 ##  General Nature of Solution:
