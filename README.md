@@ -20,8 +20,7 @@ This project will be an educational game that focuses on enhancing argumentative
   
 ### Student:
 * As a student, I want a fun game experience so that learning argumentative writings isn’t boring. 
-* As a student, I don't want another boring and hard to follow lesson.
-* As a student, I want something that can keep my attention and deliever the course material in a fun and engaging way.
+* As a student, I want to be able to quickly and easily access the game on my phone.
   
 ### Player:
 * As a gamer, I want different types of minigames so that I don’t get bored of one. 
