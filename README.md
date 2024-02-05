@@ -7,15 +7,22 @@
 This project will be an educational game that focuses on enhancing argumentative writing skills among high school students. The emphasis is on creating an engaging and educational experience that resonates with high school students and improves their argumentative writing abilities. To accomplish this, our team will create a game with a similar structure to JackBox Games. Students will join into a multiplayer game where the teacher is the host and through minigames students will submit their own open-ended answers and vote on the best of them. These minigames will provide students different settings and opportunities to construct logical, coherent, and persuasive arguments. The idea is that the answers that are the most persuasive will win. This encourages students to take their audience into account as well as remaining factual and logical. 
 
 ##  User Stories
-* As a student, I want a fun game experience so that learning argumentative writings isn’t boring. 
+
+Teacher:
 * As a teacher, I want an engaging game so that my students benefit from the course material.
 * As a student, I want to be able to pick my own username so that I can be anonymous.
-* As a highschooler, I want different types of minigames so that I don’t get bored of one. 
-* As a competitive player, I want a scoreboard so that I can prove how great I am.
 * As a teacher, I want nicknames to be school appropriate so that I don’t get in trouble. 
 * As a teacher, I want to be able to disqualify an answer if it doesn't make sense/fit the prompt so that students can’t just put down something funny that doesn’t relate to the prompt in order to win.
 * As a teacher, I want to easily distribute the game to the students so we can quickly and easily start playing.
+Host:
 * As a game facilitator, I want the players to quickly and easily join the game session so we can start with as little hassle as possible
+Student:
+* As a student, I want a fun game experience so that learning argumentative writings isn’t boring. 
+* As a student, I don't want another boring and hard to follow lesson.
+* As a student, I want something that can keep my attention and deliever the course material in a fun and engaging way.
+Player:
+* As a gamer, I want different types of minigames so that I don’t get bored of one. 
+* As a competitive player, I want a scoreboard so that I can prove how great I am.
 * As a player, I want to be able to choose my answer questions on my phone so that I can participate in the game.
 
 ##  Additional Project Guidelines
