@@ -14,12 +14,15 @@ Teacher:
 * As a teacher, I want nicknames to be school appropriate so that I don’t get in trouble. 
 * As a teacher, I want to be able to disqualify an answer if it doesn't make sense/fit the prompt so that students can’t just put down something funny that doesn’t relate to the prompt in order to win.
 * As a teacher, I want to easily distribute the game to the students so we can quickly and easily start playing.
+  
 Host:
 * As a game facilitator, I want the players to quickly and easily join the game session so we can start with as little hassle as possible
+  
 Student:
 * As a student, I want a fun game experience so that learning argumentative writings isn’t boring. 
 * As a student, I don't want another boring and hard to follow lesson.
 * As a student, I want something that can keep my attention and deliever the course material in a fun and engaging way.
+  
 Player:
 * As a gamer, I want different types of minigames so that I don’t get bored of one. 
 * As a competitive player, I want a scoreboard so that I can prove how great I am.
