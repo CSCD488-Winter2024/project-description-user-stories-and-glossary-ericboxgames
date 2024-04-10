@@ -1,4 +1,4 @@
-#  ErikBoxGames
+#  ErikBoxGames 🎮
 ###  Group Members: 
 Nick Parkman, Alysha McCullough, Bryan Snyder, Clark Rabe, Curtis Melton
 
@@ -35,7 +35,7 @@ Once the project is open in Unity
 * You should then see Hackbox.ca listed as a package in your project.
 
 
-### Installation Steps
+### Installation Steps 👣
 To open and edit code:
 1. Install Unity and Unity Hub.
 2. Navigate to https://github.com/ClarkRabe/ErikGames on your web browser
@@ -76,6 +76,10 @@ Thank you!
 ## Additional Documentation 📰
 
 ➡️ <a href= "https://unity.com/download" rel = "nofollow">Unity Installation <a/>
+
+More documentation can be found in the Documentation folder
+* Sprints
+* Diagrams
 
 ## License
 
