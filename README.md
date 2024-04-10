@@ -52,8 +52,7 @@ On the bottom pannel in Unity there should be two tabs: `Project` and `Consol`. 
 Currently none of the "Games" have been developed, so their buttons only move when you hover over them. 
 
 ## Known Problems
-TODO: Describe any known issues, bugs, odd behaviors or code smells.
-Provide steps to reproduce the problem and/or name a file or a function where the problem lives.
+* "Game" buttons loop in their movement animation when cursor is on the edge.
 
 ## Contributing
 TODO: Leave the steps below if you want others to contribute to your project.
@@ -65,11 +64,10 @@ TODO: Leave the steps below if you want others to contribute to your project.
 
 
 ## Additional Documentation
-TODO: Provide links to additional documentation that may exist in the repo, e.g.,
-* Sprint reports
-* User links
+* Sprint reports can be found under the documentation folder.
+* Other documentation can be found in the documentation folder.
 
 ## License
-If you haven't already, add a file called LICENSE.txt with the text of the appropriate license.
-We recommend using the MIT license: https://choosealicense.com/licenses/mit/
+We currently do not have a license. 
+Recommend using the MIT license: https://choosealicense.com/licenses/mit/
 
