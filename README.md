@@ -69,7 +69,7 @@ Currently none of the "Games" have been developed, so their buttons only move wh
 * "Game" buttons loop in their movement animation when cursor is on the edge.
 
 ## Contributing
-If you or anyone you know want to help out on our project, please message me or any of the others working on this project via Github.
+If you or anyone you know want to help out on our project, please message me or any of the others working on this project via Github or at crittium@gmail.com.
 Thank you!
 
 
