@@ -47,7 +47,7 @@ To open and edit code:
 8. The unfinished game should open in Unity.
 
 To play the game:
-1. Navigate to https://github.com/ClarkRabe/ErikGames on your web browser
+1. Navigate to https://github.com/ClarkRabe/CritterClash on your web browser
 2. Click on the arrow next to the green "Code" button
 3. Click on "Download .zip"
 4. Once downloaded right click on the download and click "Extract all"
